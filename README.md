@@ -1,6 +1,4 @@
-# Iris-Dataset
-Data Manipulation and Visualization
-## Iris Dataset Manipulation and Visualization - README
+# Iris Dataset Manipulation and Visualization - README
 
 This project provides tools for manipulating and visualizing the Iris flower dataset, a classic dataset used in machine learning and data science.
 
